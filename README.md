@@ -99,7 +99,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
     </tr>
     <tr>
       <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="mxd.malvin.gleeze.com" target="_blank"><img src="https://img.shields.io/badge/MINI DEPLOY-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <td><a href="https://mxd.malvin.gleeze.com" target="_blank"><img src="https://img.shields.io/badge/MINI DEPLOY-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
   </table>
 </div>
